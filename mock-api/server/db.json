@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "demo2",
+      "content": "Something2",
+      "thumbnail": "Uh huh2",
+      "create_at": "07/06/2024",
+      "create_by": "something",
+      "comments": "[]"
+    },
+    {
+      "title": "I'm new",
+      "thumbnail": "Oh Oh",
+      "create_at": "2024-04-04T00:00:00+1:00",
+      "comment": "[]",
+      "id": 4
+    },
+    {
+      "title": "I had updated",
+      "thumbnail": "haha",
+      "create_at": "2024-01025T00:00:00+1:00",
+      "create_by": "god",
+      "comments": "[]",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "updated",
+      "create_at": "updated",
+      "create_by": "newone"
+    }
+  ]
+}
